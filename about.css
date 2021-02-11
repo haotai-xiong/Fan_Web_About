@@ -17,9 +17,8 @@
             background-image: url("img/Plini-Impulse-Voices-Art.jpg");
         }
         .words {
-            width: auto;
-            background-color: lightgrey;
             width: 80%;
+            background-color: lightgrey;
             border: 10px solid green;
             padding: auto;
             margin: auto;
