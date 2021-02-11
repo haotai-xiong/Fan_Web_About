@@ -5,7 +5,7 @@
             float:left;
             position: fixed;
             overflow: hidden;
-            top:10%;
+            top:120px;
         }
         li a {
             display: inline-block;
