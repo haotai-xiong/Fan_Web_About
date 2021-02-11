@@ -1,10 +1,13 @@
         ul {
-            list-style:none;
-            margin:0;
+            list-style-type: none;
+            margin:auto;
             padding-left: 0;
             float:left;
+            position: fixed;
+            overflow: hidden;
+            top:10%;
         }
-        li {
+        li a {
             display: inline-block;
             padding: 15px;
             color:black;
@@ -16,7 +19,7 @@
         h1 {
             text-align: center;
         }
-        div {
+        .words {
             width: auto;
             background-color: lightgrey;
             width: auto;
@@ -26,5 +29,9 @@
             color:black;
             font-size:15px;
             text-align: center;
+        }
+        .audio {
+            float: right;
+            position:fixed;
         }
      
