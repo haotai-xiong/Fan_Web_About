@@ -30,4 +30,6 @@
             float: right;
             position:fixed;
         }
-     
+        th {
+            text-align: center;
+        }
